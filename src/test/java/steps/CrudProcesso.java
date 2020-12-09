@@ -36,7 +36,6 @@ public class CrudProcesso {
 
 	@Quando("^o usuario clicar no botão mostrar$")
 	public void oUsuarioClicarNoBotãoMostrar() {
-		System.out.println(Processo.getId());
 		RESTSupport.executeGet(Processo.getEndPoint() + Processo.getId());
 	}
 
