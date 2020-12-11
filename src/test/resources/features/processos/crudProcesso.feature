@@ -1,5 +1,6 @@
 # language: pt
 	
+	@processo
 	Funcionalidade: Testar as operacoes basicas de processos
 		
    	Cenário: Testar a criação de processo

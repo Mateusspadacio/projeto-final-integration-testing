@@ -1,5 +1,6 @@
 # language: pt
 
+	@processo
 	Funcionalidade: Visualizar processo
 		
 		Contexto:
